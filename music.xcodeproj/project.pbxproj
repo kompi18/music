@@ -24,6 +24,8 @@
 		A0C481DD25C9D27E0092B950 /* music.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = music.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A0C481DF25C9D27E0092B950 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A0C481E025C9D27E0092B950 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		A0DC175625CC827B00023C34 /* Attack on Titan – Opening Theme – Feuerroter Pfeil und Bogen.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Attack on Titan – Opening Theme – Feuerroter Pfeil und Bogen.m4a"; path = "../../../Downloads/Attack on Titan – Opening Theme – Feuerroter Pfeil und Bogen.m4a"; sourceTree = "<group>"; };
+		A0DC175725CC839D00023C34 /* Five Nights at Freddy's.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Five Nights at Freddy's.m4a"; path = "../../../Downloads/Five Nights at Freddy's.m4a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,8 @@
 			children = (
 				A0C481CE25C9D27D0092B950 /* musicApp.swift */,
 				A0C481CF25C9D27D0092B950 /* ContentView.swift */,
+				A0DC175725CC839D00023C34 /* Five Nights at Freddy's.m4a */,
+				A0DC175625CC827B00023C34 /* Attack on Titan – Opening Theme – Feuerroter Pfeil und Bogen.m4a */,
 				A0C481D025C9D27E0092B950 /* Assets.xcassets */,
 			);
 			path = Shared;
